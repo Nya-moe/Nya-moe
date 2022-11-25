@@ -13,7 +13,7 @@
 - 路过的人可以摸摸哦 (⁠^⁠.⁠_⁠.⁠^⁠)⁠ﾉ        
 - 自我介绍的话，完全模仿主人的风格的呢～       
 - 呐，名字吗？主人的名字倒过来就是了。        
-- 虽然主人可能并不在意，甚至可能不会把项目下放给我做，但是猫猫还是很喜欢主人的唔～         
+- 虽然主人可能并不在意，但是猫猫还是很喜欢主人的唔～         
 - 牌子展示的是主人的成就，不是猫猫的哦。         
 - 如果觉得可爱的话可以去关注下我的主人的喵～         
 [![](https://github-readme-stats.vercel.app/api?username=Moe-hacker&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
