@@ -18,13 +18,19 @@
 - 牌子展示的是主人的成就，不是猫猫的哦。         
 - 如果觉得可爱的话可以去关注下我的主人的喵～         
 
-[![](https://github-readme-stats.vercel.app/api?username=Moe-hacker&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)               
-目前在做(修正与重构)：         
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Moe-hacker&count_private=true&include_all_commits=true&show_icons=true", width="50%" title="github-readme-stats"/>
+</p>   
+目前在做(修正与重构)：
+<p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Moe-hacker&repo=termux-container" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Moe-hacker&repo=termux-container" width="50%"/>
 </a>
+</p>
 <p align="center"> 君がくれた勇気だから、</p>
 <p align="center"> 君のために使いたいんだ、</p>
 <p align="center"> 君と分け合った愛だから、</p>
 <p align="center"> 君とじゃなきゃ意味がないんだ。</p>
+
+-----
 <p align="center">✿我萌故我在!✿</p>    
